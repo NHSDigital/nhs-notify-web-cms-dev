@@ -16,14 +16,14 @@ NHS Notify finds people's contact details using their NHS numbers in the [Pers
 
 ## How to provide recipients' NHS numbers
 
-### If you're using the API
+### If you're using NHS Notify API
 
 Send recipients' NHS numbers as part of your request.
 
 Use the format shown in the
 <a href="https://digital.nhs.uk/developer/api-catalogue/nhs-notify" target="_blank">API documentation (opens in a new tab)</a>.
 
-### If you're using MESH
+### If you're using NHS Notify MESH
 
 If you're using the [Message Exchange for Social Care and Health (MESH)](https://digital.nhs.uk/services/message-exchange-for-social-care-and-health-mesh), upload NHS numbers in a CSV file.
 
